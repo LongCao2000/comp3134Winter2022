@@ -1,0 +1,108 @@
+LinkedIn.com
+Registrant	REDACTED FOR PRIVACY (DT)
+Registrant Org	LinkedIn Corporation
+Registrant Country	us
+Registrar	MarkMonitor, Inc. MarkMonitor Inc.
+		IANA ID: 292
+		URL: http://www.markmonitor.com
+		Whois Server: whois.markmonitor.com
+Dates		7,018 days old
+		Created on 2002-11-02
+		Expires on 2022-11-02
+		Updated on 2020-09-01
+Tech Contact	REDACTED FOR PRIVACY (DT)
+		LinkedIn Corporation
+		1000 W. Maude Ave,,
+		Sunnyvale, CA, 94085, us
+IP Address	13.107.42.14 - 25 other sites hosted on this server
+IP Location	United States - Washington - Redmond - Microsoft Corporation
+ASN		United States AS8068 MICROSOFT-CORP-MSN-AS-BLOCK, US (registered Mar 31, 1997)
+Domain Status	Registered And Active Website
+IP History	64 changes on 64 unique IP addresses over 18 years	  
+Registrar History	3 registrars	  
+Hosting History	10 changes on 8 unique name servers over 19 years
+
+
+Indeed.com
+Registrant Org	Indeed, Inc
+Registrant Country	us
+Registrar	MarkMonitor, Inc. MarkMonitor Inc.
+		IANA ID: 292
+		URL: http://www.markmonitor.com
+		Whois Server: whois.markmonitor.com
+Dates		8,697 days old
+		Created on 1998-03-29
+		Expires on 2022-03-28
+		Updated on 2021-02-25
+Tech Contact	—
+IP Address	169.44.162.72 - 3 other sites hosted on this server
+IP Location	United States - California - San Jose - Indeed
+ASN		United States AS36351 SOFTLAYER, US (registered Dec 12, 2005)
+Domain Status	Registered And Active Website
+IP History	68 changes on 68 unique IP addresses over 18 years	  
+Registrar History	2 registrars with 1 drop	  
+Hosting History	7 changes on 6 unique name servers over 16 years
+
+
+Google.com
+Registrant Org	Google LLC
+Registrant Country	us
+Registrar	MarkMonitor, Inc. MarkMonitor Inc.
+		IANA ID: 292
+		URL: http://www.markmonitor.com
+		Whois Server: whois.markmonitor.com
+Dates		8,892 days old
+		Created on 1997-09-15
+		Expires on 2028-09-13
+		Updated on 2019-09-09
+Tech Contact	—
+IP Address	142.250.69.196 - 80 other sites hosted on this server
+  
+IP Location	United States - Washington - Seattle - Google
+ASN		United States AS15169 GOOGLE, US (registered Mar 30, 2000)
+IP History	366 changes on 366 unique IP addresses over 18 years	  
+Registrar History	3 registrars with 1 drop
+
+
+GeorgeBrown.ca
+Registrant	George Brown College (Toronto)
+Registrant Country	ca
+Registrar	Webnames.ca Inc.
+		IANA ID: 456
+		URL: www.webnames.ca
+		Whois Server: whois.ca.fury.ca
+Dates		7,139 days old
+		Created on 2002-07-04
+		Expires on 2022-07-03
+		Updated on 2021-10-23
+Tech Contact	Dorin Grunberg
+		George Brown College
+		P.O. Box 1015 Station B,
+		Toronto, ON, M5T2T9, ca
+IP Address	99.79.139.11 - 2 other sites hosted on this server
+  
+IP Location	Canada - Quebec - Montreal - Amazon Data Services Canada
+ASN		Canada AS16509 AMAZON-02, US (registered May 04, 2000)
+Hosting History	2 changes on 3 unique name servers over 7 years
+
+
+Github.com
+Registrant Org	GitHub, Inc.
+Registrant Country	us
+Registrar	MarkMonitor, Inc. MarkMonitor Inc.
+		IANA ID: 292
+		URL: http://www.markmonitor.com
+		Whois Server: whois.markmonitor.com
+Dates		5,216 days old
+		Created on 2007-10-09
+		Expires on 2022-10-09
+		Updated on 2020-09-08
+Tech Contact	—
+IP Address	192.30.255.112 - 29 other sites hosted on this server
+  
+IP Location	United States - California - San Francisco - Github Inc.
+ASN		United States AS36459 GITHUB, US (registered Nov 13, 2012)
+Domain Status	Registered And Active Website
+IP History	135 changes on 135 unique IP addresses over 16 years	  
+Registrar History	3 registrars with 2 drops	  
+Hosting History	21 changes on 14 unique name servers over 16 years
