@@ -1,1 +1,0 @@
-root@ubuntu-s-1vcpu-1gb-tor1-01:~# ping 143.198.33.71 -w 5
