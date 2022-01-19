@@ -1,0 +1,19 @@
+youtube.com
+IP Address: 142.251.40.142
+Geolocation: US (United States), CA, California, 94043 Mountain View
+
+twitch.tv
+IP Address: 151.101.130.167
+Geolocation: US (United States), CA, California, 94107 San Francisc
+
+cloud.digitalocean.com
+IP Address: 104.16.181.15
+Geolocation: US (United States)
+
+na.op.gg
+IP Address: 13.225.214.35
+Geolocation: US (United States), CT, Connecticut, 06850 Norwalk
+
+amazon.ca
+IP Address: 54.239.19.238
+Geolocation: US (United States), VA, Virginia, 20149 Ashburn
