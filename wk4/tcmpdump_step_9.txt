@@ -1,0 +1,15 @@
+root@ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -i eth0 tcp
+
+22:48:50.741869 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > unn-37-19-211-108.datapacket.com.64786: Flags [P.], seq 3998672:3998868, ack 2449, win 63920, length 196
+22:48:50.741943 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > unn-37-19-211-108.datapacket.com.64786: Flags [P.], seq 3998868:3999064, ack 2449, win 63920, length 196
+22:48:50.742000 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > unn-37-19-211-108.datapacket.com.64786: Flags [P.], seq 3999064:3999260, ack 2449, win 63920, length 196
+22:48:50.742088 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > unn-37-19-211-108.datapacket.com.64786: Flags [P.], seq 3999260:3999456, ack 2449, win 63920, length 196
+22:48:50.742145 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > unn-37-19-211-108.datapacket.com.64786: Flags [P.], seq 3999456:3999652, ack 2449, win 63920, length 196
+22:48:50.742196 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > unn-37-19-211-108.datapacket.com.64786: Flags [P.], seq 3999652:3999848, ack 2449, win 63920, length 196
+22:48:50.742249 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > unn-37-19-211-108.datapacket.com.64786: Flags [P.], seq 3999848:4000044, ack 2449, win 63920, length 196
+22:48:50.742306 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > unn-37-19-211-108.datapacket.com.64786: Flags [P.], seq 4000044:4000240, ack 2449, win 63920, length 196
+22:48:50.743161 IP unn-37-19-211-108.datapacket.com.64786 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [P.], seq 2449:2485, ack 3985120, win 65280, length 36
+^C
+22523 packets captured
+22922 packets received by filter
+399 packets dropped by kernel
